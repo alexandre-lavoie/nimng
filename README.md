@@ -25,3 +25,9 @@ nimble nes
 ```
 
 File will output as `nimng.out`.
+
+## References
+
+- [llvm-mos](https://github.com/llvm-mos/llvm-mos)
+- [llvm-mos-sdk](https://github.com/llvm-mos/llvm-mos-sdk)
+- [nesdev](https://www.nesdev.org/)
