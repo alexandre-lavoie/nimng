@@ -1,0 +1,7 @@
+build/
+cache/
+toolchains/
+*.out
+*.out.elf
+*.fdb
+*.nes
