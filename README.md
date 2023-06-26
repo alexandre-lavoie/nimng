@@ -1,5 +1,9 @@
 # NimNG
 
+![Banner](./.github/images/banner.png)
+
+## Overview
+
 Nim game engine for retro consoles.
 
 ## NES
